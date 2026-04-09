@@ -1,0 +1,15 @@
+C:\Users\presentasi\calculator\bin\Debug\net6.0\calculator.exe
+C:\Users\presentasi\calculator\bin\Debug\net6.0\calculator.deps.json
+C:\Users\presentasi\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+C:\Users\presentasi\calculator\bin\Debug\net6.0\calculator.dll
+C:\Users\presentasi\calculator\bin\Debug\net6.0\ref\calculator.dll
+C:\Users\presentasi\calculator\bin\Debug\net6.0\calculator.pdb
+C:\Users\presentasi\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+C:\Users\presentasi\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\presentasi\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+C:\Users\presentasi\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+C:\Users\presentasi\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\presentasi\calculator\obj\Debug\net6.0\calculator.dll
+C:\Users\presentasi\calculator\obj\Debug\net6.0\ref\calculator.dll
+C:\Users\presentasi\calculator\obj\Debug\net6.0\calculator.pdb
+C:\Users\presentasi\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
